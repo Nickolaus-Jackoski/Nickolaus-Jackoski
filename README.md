@@ -9,7 +9,7 @@
   <a href="https://github.com/Nickolaus-Jackoski/nickolaus-jackoski.github.io/raw/main/Nickolaus_Jackoski_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
   </a>
-  <a href="https://nickolausjackoski.com/" target="_blank">
+  <a href="https://nickolaus-jackoski.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="my website logo"  />
   </a>
 </div>
