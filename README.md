@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/s8UHGqq9xqJmwZZtHn/giphy.gif?cid=ecf05e47lwnq0jn1w4yxv0efol7rk3bblf48qcw49gj4kz5r&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="fun gif" width="300" />
+</div>
 
-<!--
-**Nickolaus-Jackoski/Nickolaus-Jackoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/nickolaus-jackoski-535241280/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/Nickolaus-Jackoski/nickolaus-jackoski.github.io/raw/main/Nickolaus_Jackoski_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
+  </a>
+  <a href="https://nickolausjackoski.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My%20Website&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="my website logo"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hey There I'm Nick👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Hey my name is Nick </p>
