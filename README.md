@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">Hey There I'm Nick👋</h1>
+<h1 align="center">I am a motivated Computer Scientenist, currently pursuing a Master of Science in Computer Science at The University of Colorado Boulder. A Cum Laude graduate from Rhodes College with a major in Comptuer Science and a minor in Mathematics.</h1>
 
 ###
 
